@@ -3,7 +3,7 @@
 
 > Dockerized PHP development stack:  PHP-FPM, NGINX, MYSQL. Inspired form PHP DOCKERIZED
 
-[![Build Status](https://travis-ci.org/kasperisager/php-dockerized.svg)](https://travis-ci.org/kasperisager/php-dockerized)
+[![Build Status](https://travis-ci.org/babiz/Dockerized-PHP-FPM-NGINX-MYSQL-.svg)](https://travis-ci.org/babiz/Dockerized-PHP-FPM-NGINX-MYSQL-)
 
 Dockerized-PHP-FPM-NGINX-MYSQL tries to replicate the LAMP stack to kick off your full stack PHP project. This method is inspired from the Dockerized PHP which has even more feature So if you want to use it to fullest then please use Dockerized PHP.
 
